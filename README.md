@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Android or SQL
 - 📫 How to reach me: 3aforquep@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The reason I'm studying programming is because I love Mr Robot series
+- ⚡ Fun fact: The reason I'm studying programming is because I love Mr Robot
