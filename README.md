@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 3aforquep@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The reason I'm studying programming is because I love Mr Robot
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pforque)](https://github.com/anuraghazra/github-readme-stats)
+
