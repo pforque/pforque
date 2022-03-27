@@ -1,12 +1,3 @@
- ## GitHub Stats
-![pforque's Stats](https://github-readme-stats.vercel.app/api?username=pforque&show_icons=true&theme=tokyonight)
-## Most Used Languages
-![pforque's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pforque&theme=tokyonight)
-## Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=pforque)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/pforque/Java-Frames)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Indra
@@ -16,5 +7,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The reason I'm studying programming is because I love Mr Robot
 
-
-
+## GitHub Stats
+![pforque's Stats](https://github-readme-stats.vercel.app/api?username=pforque&show_icons=true&theme=blue-green)
+## Most Used Languages
+![pforque's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pforque&theme=blue-green)
+## Trophys
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=pforque&row=1)](https://github.com/ryo-ma/github-profile-trophy&theme=blue-green)
+## Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=pforque)
+## Last commit
+[![GitHub commits](https://badgen.net/github/commits/pforque/Java-Frames)](https://GitHub.com/pforque/Java-Frames/commit/)
