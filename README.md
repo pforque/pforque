@@ -2,6 +2,10 @@
 ![pforque's Stats](https://github-readme-stats.vercel.app/api?username=pforque&show_icons=true&theme=tokyonight)
 ## Most Used Languages
 ![pforque's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pforque&theme=tokyonight)
+## Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=pforque)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/pforque/Java-Frames)
 
 Here are some ideas to get you started:
 
