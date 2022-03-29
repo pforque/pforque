@@ -1,7 +1,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Indra
-- 🌱 I’m currently learning .NET and C#
+- 🌱 I’m currently learning IntelliJ, Git, Java Swing, Maven, PostgreSQL, Hibernate, Copilot, Lambda, etc.
 - 💬 Ask me about Java, Android or SQL
 - 📫 How to reach me: 3aforquep@gmail.com
 - 😄 Pronouns: he/him
